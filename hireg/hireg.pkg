@@ -1,0 +1,4 @@
+D 'hireg': Hierarchical Regression Analysis Use hireg With STATA 19
+D
+F hireg.ado
+F hireg.hlp
